@@ -4,7 +4,7 @@ This is the description of the hands-on project that you will be working on. It 
 
 This goes hand-in-hand with the Learning pathway shared last week. Utilize the same as an additional study material with these hands-on task(s).
 
-This is **NOT** going to be instruction-based rather is based on open-ended questions. It will focus on your capability to read open source materials and apply it on an unique problem statement. This will help in building a skillset of transferring your understanding from one domain & applying the same to create **actionable insights** in a different setup.
+This is **NOT** going to be instruction-based rather will be based on open-ended questions. It will focus on your capability to read open source materials and apply it on an unique problem statement. This will help in building a skillset of transferring your understanding from one domain & applying the same to create **actionable insights** in another.
 
 ## Prerequisites
 
