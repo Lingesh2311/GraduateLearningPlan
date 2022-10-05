@@ -94,7 +94,7 @@ Once you have completed the basic EDA on the CFI BIDA Loan default prediction da
 - Once the `Submit` button is pressed, it must provide the user with the dashboard (in the form of plotly plots / streamlit plots / any other package that supports dashboard-like viz.)
 - The user must be able to experience a smooth UX transition.
 
-### Resources that can help with this task / Search terms that can be helpful
+### Resources that can help with this task / Google Search terms that can be helpful
 
 Streamlit EDA; Flask EDA app; Basics of Flask + Python
 
