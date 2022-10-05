@@ -90,8 +90,8 @@ Once you have completed the basic EDA on the CFI BIDA Loan default prediction da
 
 ### Requirements (Wireframe)
 
-- Landing page must allow an option to upload the dataset
-- Once the `Submit` button is pressed, it must provide the user with the dashboard (in the form of plotly plots / streamlit plots / any other package that supports dashboard-like viz.)
+- Landing page must allow an option to upload the dataset.
+- Once the `Submit` button is pressed, it must provide the user with the dashboard (in the form of plotly plots / streamlit plots / any other package that supports dashboard-like viz.).
 - The user must be able to experience a smooth UX transition.
 
 ### Resources that can help with this task / Google Search terms that can be helpful
