@@ -65,7 +65,7 @@ Build a python-based dashboard **notebook** which can display the relationships 
 
 The choice of the attributes is left for you to pick, based on your initial EDA on the dataset and exploring the data attributes from different aspects.
 
-The data can be found [here](), and the data dictionary [here]()
+The data can be found [here](https://github.com/Lingesh2311/GraduateLearningPlan/blob/main/data/vehicle_loans_clean.csv.zip), and the data dictionary [here](https://github.com/Lingesh2311/GraduateLearningPlan/blob/main/data/data_dictionary.csv)
 
 Be explorative & come up with questions and how you can utilize this data to generate the best insights! The helper resources must help in gaining some motivation towards how to approach this dataset.
 
