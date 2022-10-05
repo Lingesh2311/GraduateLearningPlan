@@ -26,6 +26,9 @@ Below are the two (programming language + IDE) setup requirements which will be 
      _or_
    - [Google Colaboratory](https://colab.research.google.com/) - Free from Google
 
+
+4. Setup your [Kaggle account](https://www.kaggle.com/) - will be used to download sample datasets for tasks.
+
 ## HANDS-ON TASKS
 
 ## Understanding EDA
