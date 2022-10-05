@@ -98,7 +98,7 @@ Once you have completed the basic EDA on the CFI BIDA Loan default prediction da
 
 Streamlit EDA; Flask EDA app; Basics of Flask + Python
 
-### What tools & Languages you can use?
+### What tools & Languages can be used for this challenge?
 
 - IDE (VSCode / PyCharm)
 - Programming / Scripting Languages (Python, HTML, CSS)
