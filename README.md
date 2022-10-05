@@ -135,6 +135,6 @@ This will be held as part of a walkthrough session.
 
 ### Miscellaneous References - Next Steps
 
-[1. Prediction of Loan Default via Deep Learning](https://sarathi-tech.medium.com/predicting-loan-defaults-using-deep-learning-with-keras-tensorflow-78a15b196e65)
+1. [Prediction of Loan Default via Deep Learning](https://sarathi-tech.medium.com/predicting-loan-defaults-using-deep-learning-with-keras-tensorflow-78a15b196e65)
 
-[2. Web App to Predict Loan Approval](https://medium.com/swlh/lending-club-data-web-app-ada56ff64cee)
+2. [Web App to Predict Loan Approval](https://medium.com/swlh/lending-club-data-web-app-ada56ff64cee)
