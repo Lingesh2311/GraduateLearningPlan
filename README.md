@@ -1,4 +1,5 @@
-# AZURE HANDS-ON LAB - Graduate Learning Plan (Python & Azure)
+<h1 align="center">AZURE HANDS-ON LAB - Graduate Learning Plan</h1>
+<h1 align="center">Python & Azure</h1>
 
 This is the description of the hands-on project that you will be working on. It elaborates the needs & goals that needs to be achieved by the end of the learning plan.
 
@@ -26,7 +27,6 @@ Below are the two (programming language + IDE) setup requirements which will be 
      _or_
    - [Google Colaboratory](https://colab.research.google.com/) - Free from Google
 
-
 4. Setup your [Kaggle account](https://www.kaggle.com/) - will be used to download sample datasets for tasks.
 
 ## HANDS-ON TASKS
@@ -49,7 +49,7 @@ shapes.
 1. [Simple EDA Notebook](https://www.kaggle.com/code/alokevil/simple-eda-for-beginners/notebook)
 2. [EDA Jupyter Notebook Sample](https://github.com/code4kunal/eda-with-python/blob/master/EDA%20-%20part1.ipynb)
 3. [EDA Tutorial on Student Academics Performance Data Set](https://github.com/arakhia/EDA-Data-Tutorial)
-4. [Legenday Titanic EDA Workflow :)](https://github.com/shivam2906/Step-by-Step-Exploratory-Data-Analysis/blob/main/Exploratory%20Data%20Analysis.ipynb)
+4. [Lending Club Loan Defaulter Prediction](https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction)
 5. [Famous Python Packages for EDA](https://blog.devgenius.io/my-3-favourite-eda-packages-in-python-d6935ad8af7c)
 
 You are expected to **replicate** this in your own IDE / notebook environment.
@@ -60,7 +60,7 @@ Once you are comfortable replicating the above resources in your local setup, yo
 
 ## Challenge 1 : Perform EDA on a dataset which is part of the [CFI BIDA course](https://corporatefinanceinstitute.com/course/loan-default-prediction-in-machine-learning/) curriculum
 
-#### (Take this as a challenge - don't have to take the course :))
+### (Take this as a challenge - don't have to take the course :))
 
 ### The ASK !
 
