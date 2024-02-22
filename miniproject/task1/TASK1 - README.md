@@ -3,7 +3,7 @@
 
 # I. Goals
 
-The goal is to learn the way Azure works and utilize resources within it to create a small project which will make you use and upskill you by "learn by doing"
+The goal is to learn how Azure works, utilize resources within it to create a small project, and upskill yourself through hands-on learning!
 
 Below are the steps detailing how to proceed in achieving this goal.
 
