@@ -8,7 +8,7 @@ The goal is to learn the way Azure works and utilize resources within it to crea
 Below are the steps detailing how to proceed in achieving this goal.
 
 1. Create a Python Script `main.py`.
-2. In the script write a method `upload_data` to read a text file from your local VM instance and upload it to an `input` directory in a `data` container Azure Data Lake Gen 2 (ADLS Gen2) Storage.
+2. In the script write a method `upload_data` to read a text file [input.txt](input.txt) from your local VM instance and upload it to an `input` directory in a `data` container Azure Data Lake Gen 2 (ADLS Gen2) Storage.
 3. In the same script write another method `word_count` which will now read the file that you wrote into the `input` directory and perform a word count and create a dataframe with columns `file_name`, `word` and `word_count` as the columns where `file_name` is the name of the file that was parsed, `word` is the word that is being read, `word_count` is the corresponding number of times the word has occured in the file.
 4. The resultant dataframe from Step 3, must be stored back into ADLS Gen 2 storage in an `output` directory in the same `data` container. This should be done by the `save_data` method in your script `main.py`.
 
