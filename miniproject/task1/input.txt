@@ -1,0 +1,5 @@
+Hello, world! This is a sample text file for testing the word count functionality.
+Hello again! This is another sentence in the sample text file.
+The word 'this' is repeated several times in this file.
+The word 'sample' is also repeated, as is the word 'file'.
+This is the end of the sample text file. Hello and goodbye!
